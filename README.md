@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [Twitter - @dieharye](https://x.com/dieharye)
 
+I can provide the DEX developement if you have your own token launched on the EVM chain, it will help to boost your token and attract people to your tokenomics.
+
 ## Getting Started
 
 First, run the development server:
