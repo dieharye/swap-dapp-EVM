@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## How to contact
 
 [Telegram - @midaBricoll](https://t.me/midaBricoll)
+
 [Twitter - @dieharye](https://x.com/dieharye)
 
 ## Getting Started
